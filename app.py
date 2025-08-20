@@ -9,4 +9,8 @@ with col1:
     
 with col2:
     st.header('CampusX is an ONlinr platform')
-    
+
+st.header('Courses')
+st.subheader('DSMP')
+st.subheader('DAMP')
+st.subheader('DEMP')
